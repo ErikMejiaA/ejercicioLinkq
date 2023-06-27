@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.exe
+C:\Users\Usuario\Desktop\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.deps.json
+C:\Users\Usuario\Desktop\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.runtimeconfig.json
+C:\Users\Usuario\Desktop\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.dll
+C:\Users\Usuario\Desktop\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.pdb
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.dll
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\refint\ejercicioLinkq.dll
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.pdb
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ref\ejercicioLinkq.dll

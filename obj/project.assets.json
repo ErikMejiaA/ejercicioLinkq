@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ejercicioLinkq\\ejercicioLinkq.csproj",
+      "projectUniqueName": "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\ejercicioLinkq.csproj",
       "projectName": "ejercicioLinkq",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\ejercicioLinkq\\ejercicioLinkq.csproj",
+      "projectPath": "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\ejercicioLinkq.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\ejercicioLinkq\\obj\\",
+      "outputPath": "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

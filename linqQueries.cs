@@ -23,19 +23,19 @@ namespace ejercicioLinkq
 
         public IEnumerable<Book> LibrosDespuesDe(){
             return from book in lstBooks
-                where book.PublisheDate.Year > 2000
+                where book.PublishedDate.Year > 2000
                 select book;
         }
 
         public IEnumerable<Book> LibrosDespuesDe(int yearI){
             return from book in lstBooks
-                where book.PublisheDate.Year > yearI
+                where book.PublishedDate.Year > yearI
                 select book;
         }
 
         public IEnumerable<Book> LibrosDespuesDe(int yearI, int yearF){
             return from book in lstBooks
-                where book.PublisheDate.Year > yearI && book.PublisheDate.Year > yearF
+                where book.PublishedDate.Year > yearI && book.PublishedDate.Year > yearF
                 select book;
         }
 

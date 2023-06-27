@@ -13,3 +13,18 @@ C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\refint\ejercicioLinkq.d
 C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.pdb
 C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\ejercicioLinkq\obj\Debug\net7.0\ref\ejercicioLinkq.dll
+D:\Campus Lat\programasNETCore\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.exe
+D:\Campus Lat\programasNETCore\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.deps.json
+D:\Campus Lat\programasNETCore\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.runtimeconfig.json
+D:\Campus Lat\programasNETCore\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.dll
+D:\Campus Lat\programasNETCore\ejercicioLinkq\bin\Debug\net7.0\ejercicioLinkq.pdb
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.csproj.AssemblyReference.cache
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.AssemblyInfoInputs.cache
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.AssemblyInfo.cs
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.csproj.CoreCompileInputs.cache
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.dll
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\refint\ejercicioLinkq.dll
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.pdb
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ejercicioLinkq.genruntimeconfig.cache
+D:\Campus Lat\programasNETCore\ejercicioLinkq\obj\Debug\net7.0\ref\ejercicioLinkq.dll

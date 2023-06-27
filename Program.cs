@@ -5,9 +5,9 @@ internal class Program
     private static void Main(string[] args)
     {
         linqQueries queries = new linqQueries();
-        ImprimirValores(queries.AllCollection());
+        //ImprimirValores(queries.AllCollection());
 
-        //ImprimirValores(queries.LibrosDespuesDe(2000));
+        ImprimirValores(queries.LibrosDespuesDe(2020));
 
     }
 
@@ -21,7 +21,7 @@ internal class Program
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             registros += 1;
-            Console.WriteLine("{0, -70} {1, 7} {2, 20}", book.Title, book.PageCount, book.PublisheDate.ToShortDateString());
+            Console.WriteLine("{0, -70} {1, 7} {2, 20}", book.Title, book.PageCount, book.PublishedDate.ToShortDateString());
 
             if(registros % 10 ==0)
             {

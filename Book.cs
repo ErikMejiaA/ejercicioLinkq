@@ -9,14 +9,14 @@ namespace ejercicioLinkq
     {
         string ? title;
         int pageCount;
-        DateTime publisheDate;
+        DateTime publishedDate;
         string ? status;
         string[] ? authors;
         string[] ? categories;
 
         public string ? Title { get => title; set => title = value; }
         public int PageCount { get => pageCount; set => pageCount = value; }
-        public DateTime PublisheDate { get => publisheDate; set => publisheDate = value; }
+        public DateTime PublishedDate { get => publishedDate; set => publishedDate = value; }
         public string ? Status { get => status; set => status = value; }
         public string[] ? Authors { get => authors; set => authors = value; }
         public string[] ? Categories { get => categories; set => categories = value; }

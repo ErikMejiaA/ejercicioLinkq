@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\ejercicioLinkq.csproj": {}
+    "/home/apolm01-032/Desktop/ejercicioLinkq/ejercicioLinkq.csproj": {}
   },
   "projects": {
-    "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\ejercicioLinkq.csproj": {
+    "/home/apolm01-032/Desktop/ejercicioLinkq/ejercicioLinkq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\ejercicioLinkq.csproj",
+        "projectUniqueName": "/home/apolm01-032/Desktop/ejercicioLinkq/ejercicioLinkq.csproj",
         "projectName": "ejercicioLinkq",
-        "projectPath": "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\ejercicioLinkq.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Campus Lat\\programasNETCore\\ejercicioLinkq\\obj\\",
+        "projectPath": "/home/apolm01-032/Desktop/ejercicioLinkq/ejercicioLinkq.csproj",
+        "packagesPath": "/home/apolm01-032/.nuget/packages/",
+        "outputPath": "/home/apolm01-032/Desktop/ejercicioLinkq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/apolm01-032/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,10 +5,14 @@ internal class Program
     private static void Main(string[] args)
     {
         linqQueries queries = new linqQueries();
+        //IMprimir toda la coleccion de libros 
         //ImprimirValores(queries.AllCollection());
 
+        //Reto operador Where 1
         ImprimirValores(queries.LibrosDespuesDe(2020));
 
+        //Reto operador Where 2 buscar por numeros de paginas
+        ImprimirValores(queries.LibrosMas250Pag());
     }
 
     private static void ImprimirValores(IEnumerable<Book> books)
